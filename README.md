@@ -1,54 +1,70 @@
-<h1 align="center">👋 Xin chào! Tôi là Phạm Văn Hoàng</h1>
+<h1 align="center">🎉 Xin chào, tôi là <span style="color:#00BFFF">Phạm Văn Hoàng</span>!</h1>
+
 <p align="center">
-  🎓 21 tuổi | 💻 Yêu thích lập trình | 🌱 Đang học và phát triển mỗi ngày
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Lập+trình+vì+đam+mê;Không+ngừng+học+hỏi+và+phát+triển;Yêu+thích+Flask%2C+Python%2C+C%2B%2B" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  🎓 21 tuổi • 💻 Lập trình viên trẻ từ Việt Nam • 🌱 Luôn học hỏi qua dự án thực tế
 </p>
 
 ---
 
-### 🧠 Giới thiệu nhanh
-- 🧑‍💻 Tôi là một lập trình viên trẻ đến từ Việt Nam
-- 🚀 Đam mê tạo ra các ứng dụng web và phần mềm có ích
-- 🔍 Luôn tìm kiếm cơ hội học hỏi và phát triển kỹ năng
+## 🧠 Giới thiệu
+
+- 👨‍💻 Lập trình viên đam mê phát triển ứng dụng web và phần mềm.
+- 🚀 Ưu tiên học qua trải nghiệm thực tiễn và xây dựng dự án.
+- 🎯 Kiên trì, cầu tiến và sẵn sàng học công nghệ mới.
 
 ---
 
-### 🛠️ Kỹ năng chính
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
----
----
-
-### 📊 Thống kê GitHub của tôi
+## 🛠️ Kỹ năng chính
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoang01ik&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoang01ik&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,php,js,html,css,flask,mysql,git,vscode" />
 </p>
 
 ---
 
-### ✉️ Liên hệ với tôi
+## 🌟 Dự án nổi bật
 
-- 📧 Email: phamvanhoang01ik@gmail.com
-- 🌐 Facebook: *https://www.facebook.com/phamvanhoang01ik*
-- Phone: [+84862362216]
-- Zalo: [+84862362216]
+| Tên Dự Án | Mô tả | Công nghệ |
+|----------|-------|-----------|
+| 🔐 **Web Thi Trắc Nghiệm** | Hệ thống thi trắc nghiệm thời gian thực, có thống kê kết quả | Python, Flask, MySQL |
+| 📘 **Quản lý điểm sinh viên** | App nhập và xem điểm có phân quyền quản trị | Tkinter, SQLite |
+| 💬 **Chat App Socket** | Ứng dụng chat nhiều người dùng | JavaScript, Socket.IO |
+
+> 📁 Xem thêm tại: [https://github.com/hoang01ik](https://github.com/hoang01ik)
 
 ---
 
-### 😄 Fun facts
-
-- ⚡ Tôi thường code ban đêm 🌙 và học hỏi qua dự án thực tế!
-- 🏃‍♂️ Tôi thích chạy bộ và chơi game thư giãn sau giờ học
+## 📊 Thống kê GitHub
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hoang01ik&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoang01ik&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+## 📬 Liên hệ
+
+<div align="center">
+
+📧 **Email:** phamvanhoang01ik@gmail.com  
+📱 **Zalo / Điện thoại:** +84 862 362 216  
+🌐 **Facebook:** [facebook.com/phamvanhoang01ik](https://www.facebook.com/phamvanhoang01ik)
+
+</div>
+
+---
+
+## 😄 Fun facts
+
+- 🌙 Thường học lập trình ban đêm – nơi sáng tạo bay cao nhất.
+- 🏃‍♂️ Thích chạy bộ và chơi game thư giãn sau giờ học.
+- 🔍 Luôn tự học và thử thách bản thân với các dự án thật.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </p>
