@@ -19,8 +19,8 @@ Tôi là một lập trình viên trẻ với đam mê về công nghệ, phần
 > *Thêm đường dẫn GitHub thật sau khi bạn có repo*
 
 ## 📫 Liên hệ với tôi
-- Email: *[phamvanhoang01ik@gmail.com]*
-- Facebook: *[https://www.facebook.com/phamvanhoang01ik]*
+- Email: *phamvanhoang01ik@gmail.com*
+- Facebook: *https://www.facebook.com/phamvanhoang01ik*
 
 ---
 
