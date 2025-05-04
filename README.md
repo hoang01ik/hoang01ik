@@ -24,13 +24,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
-
-### 📌 Dự án nổi bật
-
-- 💡 [Quiz App - Thi trắc nghiệm trực tuyến](https://github.com/your-username/quiz-app) *(Flask + MySQL)*
-- 📊 [Student Grade Manager - Quản lý điểm sinh viên](https://github.com/your-username/grade-management) *(Tkinter + SQLite)*
-- 💬 [Realtime Chat App - Chat đơn giản](https://github.com/your-username/chat-app) *(SocketIO + JS)*
-
 ---
 
 ### 📊 Thống kê GitHub của tôi
