@@ -1,70 +1,79 @@
-<h1 align="center">🎉 Xin chào, tôi là <span style="color:#00BFFF">Phạm Văn Hoàng</span>!</h1>
+<!-- Typing SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=550&lines=👋+Xin+chào%2C+tôi+là+Phạm+Văn+Hoàng!;💻+Lập+trình+%7C+Phát+triển+%7C+Sáng+tạo;🌱+Luôn+học+hỏi+mỗi+ngày!" alt="Typing SVG" />
+</p>
+
+<!-- Profile Section -->
+<h1 align="center">🚀 Về tôi</h1>
+
+<p align="center">
+  🎓 <strong>21 tuổi</strong> | 🧑‍💻 <strong>Lập trình viên trẻ tại Việt Nam</strong><br>
+  💡 Yêu thích phát triển ứng dụng web, phần mềm tiện ích<br>
+  ✨ Luôn sẵn sàng học hỏi và cộng tác để tạo nên điều tuyệt vời
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Lập+trình+vì+đam+mê;Không+ngừng+học+hỏi+và+phát+triển;Yêu+thích+Flask%2C+Python%2C+C%2B%2B" alt="Typing SVG" />
 </p>
 
+---
+
+<!-- Skills Badges -->
+### 🛠️ Kỹ năng chính
+
 <p align="center">
-  🎓 21 tuổi • 💻 Lập trình viên trẻ từ Việt Nam • 🌱 Luôn học hỏi qua dự án thực tế
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-## 🧠 Giới thiệu
-
-- 👨‍💻 Lập trình viên đam mê phát triển ứng dụng web và phần mềm.
-- 🚀 Ưu tiên học qua trải nghiệm thực tiễn và xây dựng dự án.
-- 🎯 Kiên trì, cầu tiến và sẵn sàng học công nghệ mới.
-
----
-
-## 🛠️ Kỹ năng chính
+<!-- GitHub Stats -->
+### 📊 Thống kê GitHub
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,php,js,html,css,flask,mysql,git,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hoang01ik&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoang01ik&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoang01ik&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🌟 Dự án nổi bật
-
-| Tên Dự Án | Mô tả | Công nghệ |
-|----------|-------|-----------|
-| 🔐 **Web Thi Trắc Nghiệm** | Hệ thống thi trắc nghiệm thời gian thực, có thống kê kết quả | Python, Flask, MySQL |
-| 📘 **Quản lý điểm sinh viên** | App nhập và xem điểm có phân quyền quản trị | Tkinter, SQLite |
-| 💬 **Chat App Socket** | Ứng dụng chat nhiều người dùng | JavaScript, Socket.IO |
-
-> 📁 Xem thêm tại: [https://github.com/hoang01ik](https://github.com/hoang01ik)
-
----
-
-## 📊 Thống kê GitHub
+<!-- Progress Bars -->
+### 📈 Kỹ năng theo phần trăm
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoang01ik&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoang01ik&layout=compact&theme=radical" height="160"/>
+  <img src="https://progress-bar.dev/80/?title=Python&color=5ED3F3&width=300"/>
+  <img src="https://progress-bar.dev/70/?title=JavaScript&color=FFCF00&width=300"/>
+  <img src="https://progress-bar.dev/75/?title=HTML%2FCSS&color=E34F26&width=300"/>
+  <img src="https://progress-bar.dev/65/?title=PHP&color=777BB4&width=300"/>
 </p>
 
 ---
 
-## 📬 Liên hệ
+### ✉️ Liên hệ với tôi
 
-<div align="center">
-
-📧 **Email:** phamvanhoang01ik@gmail.com  
-📱 **Zalo / Điện thoại:** +84 862 362 216  
-🌐 **Facebook:** [facebook.com/phamvanhoang01ik](https://www.facebook.com/phamvanhoang01ik)
-
-</div>
+- 📧 Email: **phamvanhoang01ik@gmail.com**
+- 🌐 Facebook: [facebook.com/phamvanhoang01ik](https://www.facebook.com/phamvanhoang01ik)
+- ☎️ Phone / Zalo: **+84 862 362 216**
 
 ---
 
-## 😄 Fun facts
+### 🎯 Fun Facts
 
-- 🌙 Thường học lập trình ban đêm – nơi sáng tạo bay cao nhất.
-- 🏃‍♂️ Thích chạy bộ và chơi game thư giãn sau giờ học.
-- 🔍 Luôn tự học và thử thách bản thân với các dự án thật.
+- 🦉 Thường code ban đêm, khi yên tĩnh và sáng tạo nhất!
+- 🏃‍♂️ Yêu thích chạy bộ & chơi game thư giãn sau giờ học
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
