@@ -5,7 +5,7 @@
 
 <!-- Profile Section -->
 <h1 align="center">🚀 Về tôi</h1>
-
+<h1 align="center">🎉 Xin chào, tôi là <span style="color:#00BFFF">Phạm Văn Hoàng</span>!</h1>
 <p align="center">
   🎓 <strong>21 tuổi</strong> | 🧑‍💻 <strong>Lập trình viên trẻ tại Việt Nam</strong><br>
   💡 Yêu thích phát triển ứng dụng web, phần mềm tiện ích<br>
@@ -45,18 +45,6 @@
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoang01ik&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-<!-- Progress Bars -->
-### 📈 Kỹ năng theo phần trăm
-
-<p align="center">
-  <img src="https://progress-bar.dev/80/?title=Python&color=5ED3F3&width=300"/>
-  <img src="https://progress-bar.dev/70/?title=JavaScript&color=FFCF00&width=300"/>
-  <img src="https://progress-bar.dev/75/?title=HTML%2FCSS&color=E34F26&width=300"/>
-  <img src="https://progress-bar.dev/65/?title=PHP&color=777BB4&width=300"/>
 </p>
 
 ---
